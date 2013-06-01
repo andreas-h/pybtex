@@ -46,6 +46,7 @@ class Backend(BaseBackend):
     }
     tags = {
          'emph': u'em',
+         'bold': u'b',
     }
     
     def format_text(self, text):

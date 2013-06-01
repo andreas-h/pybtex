@@ -84,7 +84,8 @@ plugin_registry = {
         }, 
         "default_plugin": "plain", 
         "plugins": [
-            "lastfirst", 
+            "andreash",
+            "lastfirst",
             "plain"
         ]
     }, 
@@ -95,6 +96,7 @@ plugin_registry = {
         "default_plugin": "none", 
         "plugins": [
             "author_year_title", 
+            "invyear_author_title", 
             "none"
         ]
     }
